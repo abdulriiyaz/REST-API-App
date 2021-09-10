@@ -1,0 +1,25 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "A REST API with features get, post, delete and put and MongoDB as the database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulriiyaz/REST-API-App.git"
+  },
+  "author": "Riyaz Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulriiyaz/REST-API-App/issues"
+  },
+  "homepage": "https://github.com/abdulriiyaz/REST-API-App#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5"
+  }
+}
